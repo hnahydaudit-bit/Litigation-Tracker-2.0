@@ -173,4 +173,3 @@ if uploaded_files:
                 file_name=output_file,
                 mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
             )
-
